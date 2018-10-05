@@ -1,0 +1,17 @@
+{
+    "name": "root/start",
+    "authors": [
+        {
+            "name": "vargaandrea",
+            "email": "andi@narancs.net"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
